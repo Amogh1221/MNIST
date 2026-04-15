@@ -62,7 +62,7 @@ matplotlib
 ## How to Run
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/) with a T4 GPU runtime.
-2. Install dependencies if needed (Colab includes most by default).
+2. Install dependencies if needed.
 3. Run all cells in order — data loading, preprocessing, model definition, training, and evaluation.
 
 ## Notebook Structure
